@@ -1,6 +1,6 @@
 ### Olá, Pontuego ao seu dispor 👌
 
-- 🔭 desenvolvendo aplicação em Java
+- 🔭 Desenvolvendo aplicação em Java
 - 🌱 Estudando Java
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pontuego&show_icons=true&theme=tokyonight) 
