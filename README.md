@@ -1,4 +1,4 @@
-### Olá, Pontuego ao seu dispor 👌
+### Olá, ao seu dispor 👌
 
 - 🔭 Desenvolvendo aplicação em Java
 - 🌱 Estudando Java
