@@ -12,7 +12,8 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=blue&logo=linkedInlogoColor=black)](https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-769a531b9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-769a531b9/)
+
 
 
 
