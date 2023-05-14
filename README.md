@@ -8,3 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pontuego&layout=compact/api?username=Pontuego&show_icons=true&theme=tokyonight)](https://github.com/Pontuego/github-readme-stats)
                            
+https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-769a531b9
