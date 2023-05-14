@@ -1,7 +1,7 @@
-### Olá, ao seu dispor 👌
+### Olá, me chano João Augusto 👌
 
-- 🔭 Desenvolvendo aplicação em Java
-- 🌱 Estudando Java
+- 🔭 Estudante de ciência da computação na Universidade Paulista (UNIP). No momento, estou aprendendo a desenvolver aplicações em Java e manejo de Banco de Dados.
+- 🌱 Conhecimento básico em Python, estudando Java e programação orientada a objeto.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pontuego&show_icons=true&theme=tokyonight) 
 
