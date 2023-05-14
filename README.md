@@ -10,4 +10,8 @@
    
 
 
+[![Ícone do LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-769a531b9)](https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-769a531b9)
+
+
+
 ![fd650a9ab301cb9baf6487b332256d4f](https://github.com/Pontuego/Pontuego/assets/132208368/aa3c55b1-49cf-45d5-bbb0-c050dd789eb0)
