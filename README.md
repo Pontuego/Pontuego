@@ -10,12 +10,11 @@
    
 
 
-<a href=https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-769a531b9 ><img src=https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-769a531b9></a>
 
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-769a531b9">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=blue&logo=linkedInlogoColor=black)](https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-769a531b9/)
+
+
 
 
 
