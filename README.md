@@ -16,7 +16,7 @@
 
 
 
-
+![pitou-eyes.gif](https://github.com/Pontuego/Pontuego/assets/132208368/fa8e6c93-2a85-4934-9014-7ab6f29dd438)
 
 
 
