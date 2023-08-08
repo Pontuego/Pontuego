@@ -4,9 +4,10 @@
 - 🌱 Conhecimento básico em Python, estudando Java e programação orientada a objetos.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pontuego&show_icons=true&theme=tokyonight) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pontuego&layout=compact/api?username=Pontuego&show_icons=true&theme=tokyonight)](https://github.com/Pontuego/github-readme-stats)
+<div style="display: inline-block;" align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pontuego&show_icons=true&theme=tokyonight" alt="Pontuego" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pontuego&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pontuego" />
+</div>
    
 
 
