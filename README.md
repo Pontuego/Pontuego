@@ -1,7 +1,7 @@
 ### Olá, me chamo João Augusto 👌
 
-- 👨‍💻 Estudante de ciência da computação na Universidade Paulista (UNIP). No momento, estou aprendendo a desenvolver aplicações web em Java, Python e manejo de Banco de Dados.
-- 🌱 Conhecimento básico em Python, estudando Java e programação orientada a objetos.
+- 👨‍💻 Estudante de ciência da computação na Universidade Paulista (UNIP). No momento, estou aprendendo a desenvolver sites com HTML5, CSS3, Node.Js e JavaScript.
+- 🌱 Conhecimento básico em Python, Java orientado a objetos e desenvolvimento web.
 
 
 <div style="display: inline-block;" align="center">
