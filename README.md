@@ -10,7 +10,7 @@
 </div>
 
 
+<img height="180em" src="![fd650a9ab301cb9baf6487b332256d4f](https://github.com/Pontuego/Pontuego/assets/132208368/aa3c55b1-49cf-45d5-bbb0-c050dd789eb0)" alt="Pontuego" />
 
-![fd650a9ab301cb9baf6487b332256d4f](https://github.com/Pontuego/Pontuego/assets/132208368/aa3c55b1-49cf-45d5-bbb0-c050dd789eb0)
 
 ![pitou-eyes.gif](https://github.com/Pontuego/Pontuego/assets/132208368/fa8e6c93-2a85-4934-9014-7ab6f29dd438)
