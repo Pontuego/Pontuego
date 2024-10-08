@@ -4,7 +4,7 @@
 - 🌱 Conhecimento básico em Python, Java orientado a objetos, banco de dados e desenvolvimento web.
 
 
-<div style="display: inline-block;" align="center">
+<div style="display: inline-block;" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pontuego&show_icons=true&theme=tokyonight" alt="Pontuego" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pontuego&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pontuego" />
 </div>
@@ -13,9 +13,7 @@
 
 
 
-<di style="display: inline-block; align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?style=social&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-769a531b9/) 
-</div>
+<a align="center" href="[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?style=social&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-769a531b9/)">
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_jursa_?igshid=ZGUzMzM3NWJiOQ==)
