@@ -12,7 +12,7 @@
 
 
 <div style="display: inline-block;" >
-<img src="https://skillicons.dev/icons?i=all"/>
+<img src=""http://www.w3.org/2000/svg""/>
 <a align="center" href="[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?style=social&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-769a531b9/)">
 </div>
 
