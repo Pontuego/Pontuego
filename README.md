@@ -8,20 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pontuego&show_icons=true&theme=tokyonight" alt="Pontuego" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pontuego&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pontuego" />
 </div>
-   
-
-<hv>
-  
-<div style="display: inline-block;" >
-<img src=""http://www.w3.org/2000/svg""/>
-<a align="center" href="[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?style=social&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-769a531b9/)">
-</div>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_jursa_?igshid=ZGUzMzM3NWJiOQ==)
-
-
-
-
 
 ![fd650a9ab301cb9baf6487b332256d4f](https://github.com/Pontuego/Pontuego/assets/132208368/aa3c55b1-49cf-45d5-bbb0-c050dd789eb0)
 
