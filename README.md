@@ -4,7 +4,7 @@
 <p align="center">- 🌱 Conhecimentos básicos em Python, Java orientado a objetos, banco de dados e desenvolvimento web</p>
 
 
-<div style="display: inline-block;" >
+<div style="display: inline-block;" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pontuego&show_icons=true&theme=tokyonight" alt="Pontuego" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pontuego&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pontuego" />
 </div>
