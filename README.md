@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8200DB&width=435&lines=Olá!+Muito+prazer+😁;Me+chamo+João+Augusto+👌)](https://git.io/typing-svg)
 
-<p align="center">- 👨‍💻 Estudante de Ciência da Computação na Universidade Paulista (UNIP). No momento, estou aprendendo C#, JavaScript e React</p>
+<p align="center">- 👨‍💻 Estudante de Ciência da Computação na Universidade Paulista (UNIP). No momento, estou aprendendo C#, .Net, APIs, JavaScript e React</p>
 <p align="center">- 🌱 Possuo conhecimentos básicos em Python, Java orientado a objetos, banco de dados e desenvolvimento web, sempre buscando me aprimorar</p>
 
 
