@@ -1,4 +1,4 @@
-### Olá, me chamo João Augusto 👌
+<h1 center >Olá, me chamo João Augusto 👌</h1>
 
 - 👨‍💻 Estudante de Ciência da Computação na Universidade Paulista (UNIP). No momento, estou aprendendo C#, JavaScript e React.
 - 🌱 Conhecimentos básicos em Python, Java orientado a objetos, banco de dados e desenvolvimento web.
