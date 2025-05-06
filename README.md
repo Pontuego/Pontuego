@@ -1,7 +1,7 @@
-<h1 center >Olá, me chamo João Augusto 👌</h1>
+<h1 align="center" ><strong>Olá, me chamo João Augusto 👌</strong></h1>
 
-- 👨‍💻 Estudante de Ciência da Computação na Universidade Paulista (UNIP). No momento, estou aprendendo C#, JavaScript e React.
-- 🌱 Conhecimentos básicos em Python, Java orientado a objetos, banco de dados e desenvolvimento web.
+<p align="center">- 👨‍💻 Estudante de Ciência da Computação na Universidade Paulista (UNIP). No momento, estou aprendendo C#, JavaScript e React</p>
+<p align="center">- 🌱 Conhecimentos básicos em Python, Java orientado a objetos, banco de dados e desenvolvimento web</p>
 
 
 <div style="display: inline-block;" >
