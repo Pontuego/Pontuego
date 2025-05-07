@@ -2,25 +2,45 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8200DB&width=435&lines=Olá!+Muito+prazer+😁;Me+chamo+João+Augusto+👌)](https://git.io/typing-svg)
 
-<p align="center">- 👨‍💻 Estudante de Ciência da Computação na Universidade Paulista (UNIP). No momento, estou aprendendo sobre C#, .Net, APIs, JavaScript e React</p>
-<p align="center">- 🌱 Possuo conhecimentos básicos em Python, Java orientado a objetos, banco de dados e desenvolvimento web, sempre buscando me aprimorar</p>
+Bem-vindo(a) ao meu GitHub! Aqui você vai encontrar meus projetos, estudos e experimentos em **C#**, **.NET**, programação em geral, e muito mais. 🚀
 
+---
 
-<div style="display: inline-block;" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pontuego&show_icons=true&theme=midnight-purple" alt="Pontuego" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pontuego&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Pontuego" />
-</div>
+### 📊 GitHub Stats
 
-<hr align="center"/>
-<h3 align="center">Linguagens e ferramentas:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=git,mysql,cs,css,html,java,js,py," />
-  </a>
-</p>
+![Pontuego GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pontuego&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pontuego&layout=compact&theme=midnight-purple)
 
-<hr/>
-<h3 align="center">Linkedin</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-493552357/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-</p>
+---
+
+### 📦 Repositórios em destaque
+
+[![Estudos de C#](https://github-readme-stats.vercel.app/api/pin/?username=Pontuego&repo=Estudos-de-C-Sharp&theme=midnight-purple)](https://github.com/Pontuego/Estudos-de-C-Sharp)
+
+---
+
+### 📛 Badges
+
+![Profile views](https://komarev.com/ghpvc/?username=Pontuego&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/Pontuego?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Pontuego?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+
+---
+
+### 💬 Sobre mim
+
+- 💻 Estudante de Ciência da Computação  
+- 🌱 Atualmente estudando **C#**, **.NET**, **POO**, **algoritmos** e **Git**  
+- 🎯 Objetivo: evoluir como desenvolvedor e contribuir em projetos open source  
+- ⚡ Curiosidade: adoro explorar novas linguagens e frameworks!
+
+---
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Pontuego)
+
+---
+
+⭐ Obrigado por visitar meu perfil! Se gostar dos meus projetos, não esqueça de deixar uma ⭐! 😄
