@@ -38,7 +38,7 @@ Bem-vindo(a) ao meu GitHub! Aqui você vai encontrar meus projetos, estudos e ex
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-augusto-cardoso-dos-reis-da-silva-493552357/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Pontuego)
 
 ---
