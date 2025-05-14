@@ -15,7 +15,7 @@ Bem-vindo(a) ao meu GitHub! Aqui você vai encontrar meus projetos, estudos e ex
 
 ---
 
-### 📦 Repositórios em destaque
+### 📦 Meus estudos atuais
 
 [![Estudos de C#](https://github-readme-stats.vercel.app/api/pin/?username=Pontuego&repo=Estudos-de-C-Sharp&theme=midnight-purple)](https://github.com/Pontuego/Estudos-de-C-Sharp)
 
