@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8200DB&width=435&lines=Olá!+Muito+prazer+😁;Me+chamo+João+Augusto+👌)](https://git.io/typing-svg)
 
-Bem-vindo(a) ao meu GitHub! Aqui você vai encontrar meus projetos, estudos e experimentos em **C#**, **.NET**, programação em geral, e muito mais. 🚀
+Bem-vindo(a) ao meu GitHub! Aqui você vai encontrar meus projetos, estudos e experimentos, programação em geral, e muito mais.
 
 ---
 
